@@ -1,0 +1,16 @@
+C:\Users\Anthonio\Desktop\C#\Play\bin\Debug\Play.exe.config
+C:\Users\Anthonio\Desktop\C#\Play\bin\Debug\Play.exe
+C:\Users\Anthonio\Desktop\C#\Play\bin\Debug\Play.pdb
+C:\Users\Anthonio\Desktop\C#\Play\bin\Debug\Interop.WMPLib.dll
+C:\Users\Anthonio\Desktop\C#\Play\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Anthonio\Desktop\C#\Play\obj\Debug\Play.csproj.AssemblyReference.cache
+C:\Users\Anthonio\Desktop\C#\Play\obj\Debug\Play.csproj.SuggestedBindingRedirects.cache
+C:\Users\Anthonio\Desktop\C#\Play\obj\Debug\Interop.WMPLib.dll
+C:\Users\Anthonio\Desktop\C#\Play\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Anthonio\Desktop\C#\Play\obj\Debug\Play.csproj.ResolveComReference.cache
+C:\Users\Anthonio\Desktop\C#\Play\obj\Debug\Play.Form1.resources
+C:\Users\Anthonio\Desktop\C#\Play\obj\Debug\Play.Properties.Resources.resources
+C:\Users\Anthonio\Desktop\C#\Play\obj\Debug\Play.csproj.GenerateResource.cache
+C:\Users\Anthonio\Desktop\C#\Play\obj\Debug\Play.csproj.CoreCompileInputs.cache
+C:\Users\Anthonio\Desktop\C#\Play\obj\Debug\Play.exe
+C:\Users\Anthonio\Desktop\C#\Play\obj\Debug\Play.pdb
